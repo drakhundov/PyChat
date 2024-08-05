@@ -1,0 +1,8 @@
+{
+    "TITLE": "Login",
+    "SIZE": [200, 180],
+    "ICON": "favicon.ico",
+    "INTERVAL": 100,
+    "BACKGROUND": [125, 100, 150],
+    "DEBUG": true
+}

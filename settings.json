@@ -1,0 +1,8 @@
+{
+    "TITLE": "PyChat",
+    "SIZE": [500, 500],
+    "ICON": "favicon.ico",
+    "INTERVAL": 100,
+    "BACKGROUND": [78, 118, 194],
+    "DEBUG": true
+}
